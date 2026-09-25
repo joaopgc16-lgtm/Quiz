@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+  font-family: 'Rajdhani', sans-serif;
+}
+.font-bangers {
+  font-family: 'Bangers', cursive;
+  letter-spacing: 0.05em;
+}
